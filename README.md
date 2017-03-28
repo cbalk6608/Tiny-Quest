@@ -18,10 +18,10 @@
     E Key: Punch Right</p>
     
 <h3>Screenshots</h3>
-<img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Title.PNG width="900px">
-<Img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Mid%20Game.PNG width="900px">
-<img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Game%20Over.PNG width="900px">
-<img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Win.PNG width="900px">
+<img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Title.PNG width="800px">
+<Img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Mid%20Game.PNG width="800px">
+<img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Game%20Over.PNG width="800px">
+<img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Win.PNG width="800px">
 
 <h3>Resources</h3>
 <a href="https://www.python.org/downloads/"> Python Download </a>
