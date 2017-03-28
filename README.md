@@ -2,7 +2,17 @@
 
 <h3>Description</h3>
 <p>
-    Tiny Quest
+    Tiny Quest is a simple but fun game. My partner and i tried to make this game a
+    retro style side scroller. The main goal of the game is to get to a score of 1000.
+    All you have to do is fight through waves of aliens.
+</p>
+
+<h3>Controls</h3>
+<p>
+    Left Arrow Key: Move Left
+    Right Arrow Key: Move Right
+    Q Key: Punch Left
+    E Key: Punch Right
 </p>
     
 <h3>Screenshots</h3>
