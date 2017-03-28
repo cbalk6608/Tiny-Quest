@@ -7,4 +7,4 @@
 </p>
     
 <h3>Screenshots</h3>
-<img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Game%20Over.PNG width="200px">
+<img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Game%20Over.PNG width="20px">
