@@ -9,11 +9,13 @@
 
 <h3>Controls</h3>
 <p>
-    Left Arrow Key: Move Left
-    Right Arrow Key: Move Right
-    Q Key: Punch Left
-    E Key: Punch Right
-</p>
+    Left Arrow Key: Move Left</p>
+<p>
+    Right Arrow Key: Move Right</p>
+<p>
+    Q Key: Punch Left</p>
+<p>
+    E Key: Punch Right</p>
     
 <h3>Screenshots</h3>
 <img src=https://github.com/cbalk6608/Tiny-Quest/blob/master/Tiny%20Quest/Game%20Over.PNG width="900px">
