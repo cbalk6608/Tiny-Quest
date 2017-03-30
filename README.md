@@ -28,4 +28,4 @@
 <p></p>
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> Pygame </a>
 <p></p>
-<a href="https://www.youtube.com/embed/_GikMdhAhv0"> How To install Pygame </a>
+<a href="https://www.youtube.com/embed/_GikMdhAhv0"> How To Install Pygame </a>
